@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ESCA\Desktop\FSMLab
+vMaster
+Z1 I0YFUDH2L2L<0^X6TN=S^Y3
+Z2 V@;=PfE<Oi9CaoQ@ECYk]43
+Z3 dC:\Users\ESCA\Desktop\yarb
+Z4 w1514070928
+Z5 8C:/Users/ESCA/Desktop/yarb/Master.v
+Z6 FC:/Users/ESCA/Desktop/yarb/Master.v
+L0 1
+Z7 OV;L;10.1b;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/ESCA/Desktop/yarb/Master.v|
+Z9 o-work work -O0
+Z10 n@master
+Z11 !s100 M`MVdDA^K0fRl`66``K?f0
+Z12 !s108 1514071027.237000
+Z13 !s107 C:/Users/ESCA/Desktop/yarb/Master.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMaster_Slave
+Z14 !s100 >UP1KVPLaf_[]m@FoTNFl3
+Z15 I38^>[NQ:E;1Z@E3?<LVhF0
+Z16 VUWz]c0Wa3]c6ADPfeRAPC0
+R3
+Z17 w1513956884
+Z18 8C:/Users/ESCA/Desktop/yarb/Master_Slave.v
+Z19 FC:/Users/ESCA/Desktop/yarb/Master_Slave.v
+L0 2
+R7
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/ESCA/Desktop/yarb/Master_Slave.v|
+R9
+Z21 n@master_@slave
+Z22 !s108 1514068037.301000
+Z23 !s107 C:/Users/ESCA/Desktop/yarb/Master_Slave.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmaster_slave_tb
+Z24 IT0bj>1Kik5dMHIBlb;J=02
+Z25 VShUSTRi2hb7TiW]WG8X:U3
+R3
+Z26 w1514198821
+Z27 8C:/Users/ESCA/Desktop/yarb/Master_Slave_tb.v
+Z28 FC:/Users/ESCA/Desktop/yarb/Master_Slave_tb.v
+L0 4
+R7
+r1
+31
+R9
+!i10b 1
+Z29 !s100 YkIk[`bE5Q;O;cF9BEl6R0
+!s85 0
+Z30 !s108 1514199503.760000
+Z31 !s107 C:/Users/ESCA/Desktop/yarb/Master_Slave_tb.v|
+Z32 !s90 -reportprogress|300|-work|work|C:/Users/ESCA/Desktop/yarb/Master_Slave_tb.v|
+!s101 -O0
+vMaster_tb
+!i10b 1
+!s100 ODQhCz36knPWUljc3F?o52
+IkKdfZeLm]bLZVmk>l=aO;3
+V@VkdD[igXJmzH9c39>TcE1
+R3
+w1514198892
+8C:/Users/ESCA/Desktop/yarb/Master_tb.v
+FC:/Users/ESCA/Desktop/yarb/Master_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1514199713.985000
+!s107 C:/Users/ESCA/Desktop/yarb/Master_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ESCA/Desktop/yarb/Master_tb.v|
+!s101 -O0
+R9
+n@master_tb
+vslave
+Z33 !s100 L@13eUbeZNiePIC8BU1>=3
+Z34 IM<KEQT]d4K^nTgzbeF4EE3
+Z35 VBPhaNY:Z>?THjO;c7[Gk30
+R3
+Z36 w1514059120
+Z37 8C:/Users/ESCA/Desktop/yarb/slave.v
+Z38 FC:/Users/ESCA/Desktop/yarb/slave.v
+L0 3
+R7
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/ESCA/Desktop/yarb/slave.v|
+R9
+Z40 !s108 1514068036.908000
+Z41 !s107 C:/Users/ESCA/Desktop/yarb/slave.v|
+!i10b 1
+!s85 0
+!s101 -O0

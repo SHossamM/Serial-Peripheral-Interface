@@ -1,0 +1,29 @@
+C:/Users/ESCA/Desktop/yarb/Master_Slave.v {1 {vlog -work work C:/Users/ESCA/Desktop/yarb/Master_Slave.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Master_Slave
+
+Top level modules:
+	Master_Slave
+
+} {} {}} C:/Users/ESCA/Desktop/yarb/slave.v {1 {vlog -work work C:/Users/ESCA/Desktop/yarb/slave.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module slave
+
+Top level modules:
+	slave
+
+} {} {}} C:/Users/ESCA/Desktop/yarb/Master.v {1 {vlog -work work C:/Users/ESCA/Desktop/yarb/Master.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Master
+
+Top level modules:
+	Master
+
+} {} {}} C:/Users/ESCA/Desktop/yarb/Master_tb.v {1 {vlog -work work C:/Users/ESCA/Desktop/yarb/Master_tb.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Master_tb
+
+Top level modules:
+	Master_tb
+
+} {} {}}
